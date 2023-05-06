@@ -1,6 +1,5 @@
 import cv2
 import mediapipe as mp
-import time
 from dataclasses import dataclass
 import numpy as np
 import imageio
